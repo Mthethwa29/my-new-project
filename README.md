@@ -1,2 +1,2 @@
-# my-first-repo
-This is my first GitHub repo
+# my-new-project
+This is my first GitHub 
